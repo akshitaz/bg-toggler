@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+button {
+    padding: 10px;
+    font-size: 20px;
+    background-color: #20ff9e;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
